@@ -20,3 +20,15 @@ let someNumber = 123
 let stringNumber = String(someNumber)
 console.log(stringNumber);
 console.log(typeof stringNumber);
+
+
+let value = 3
+let negValue = -value
+console.log(negValue);
+
+let str1 = "Hello"
+let str2 = "Konichiva"
+let str3 = str1 + str2
+console.log(str3);
+
+console.log("2" + "2");

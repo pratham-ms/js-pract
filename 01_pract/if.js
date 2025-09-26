@@ -11,7 +11,7 @@ const debitCard = true
 const loggedInFromGoogle = false
 const loggedInFromEmail = true
 
-if (userLoggedIn && debitCard && 2==3) {
+if (userLoggedIn && debitCard) {
     console.log("Allow user to make a purchase");
 }
 
